@@ -1,2 +1,2 @@
 # libriquote
-Utilities and evaluation code for LibriQuote, a speech dataset of expressive utterances from fictional characters
+This repository is under construction, and will be live in a few days.
