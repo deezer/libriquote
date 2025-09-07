@@ -53,8 +53,4 @@ If you use LibriQuote or part of this code in your publications, you can cite th
     primaryClass={eess.AS},
     url={https://arxiv.org/abs/2509.04072}
 }
-<<<<<<< Updated upstream
 ```
-=======
-```
->>>>>>> Stashed changes
